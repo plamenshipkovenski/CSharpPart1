@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\bin\Debug\_13.SwapBits.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\bin\Debug\_13.SwapBits.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\bin\Debug\_13.SwapBits.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\obj\Debug\13. SwapBits.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\obj\Debug\_13.SwapBits.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\13. SwapBits\obj\Debug\_13.SwapBits.pdb

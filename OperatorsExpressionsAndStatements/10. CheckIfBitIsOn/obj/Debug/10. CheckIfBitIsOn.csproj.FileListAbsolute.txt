@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\bin\Debug\_10.CheckIfBitIsOn.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\bin\Debug\_10.CheckIfBitIsOn.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\bin\Debug\_10.CheckIfBitIsOn.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\obj\Debug\10. CheckIfBitIsOn.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\obj\Debug\_10.CheckIfBitIsOn.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\10. CheckIfBitIsOn\obj\Debug\_10.CheckIfBitIsOn.pdb

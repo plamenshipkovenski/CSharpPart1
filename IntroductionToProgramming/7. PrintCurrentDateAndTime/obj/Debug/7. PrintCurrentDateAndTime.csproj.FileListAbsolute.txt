@@ -1,0 +1,5 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\7. PrintCurrentDateAndTime\obj\Debug\_7.PrintCurrentDateAndTime.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\7. PrintCurrentDateAndTime\obj\Debug\_7.PrintCurrentDateAndTime.pdb

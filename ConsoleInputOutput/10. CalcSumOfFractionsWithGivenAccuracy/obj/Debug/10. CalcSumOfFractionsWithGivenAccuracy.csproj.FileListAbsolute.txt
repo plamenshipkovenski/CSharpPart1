@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\bin\Debug\_10.CalcSumOfFractionsWithGivenAccuracy.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\bin\Debug\_10.CalcSumOfFractionsWithGivenAccuracy.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\bin\Debug\_10.CalcSumOfFractionsWithGivenAccuracy.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\obj\Debug\10. CalcSumOfFractionsWithGivenAccuracy.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\obj\Debug\_10.CalcSumOfFractionsWithGivenAccuracy.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\10. CalcSumOfFractionsWithGivenAccuracy\obj\Debug\_10.CalcSumOfFractionsWithGivenAccuracy.pdb

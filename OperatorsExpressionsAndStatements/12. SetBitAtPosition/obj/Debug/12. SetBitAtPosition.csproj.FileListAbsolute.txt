@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\bin\Debug\_12.SetBitAtPosition.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\bin\Debug\_12.SetBitAtPosition.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\bin\Debug\_12.SetBitAtPosition.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\obj\Debug\12. SetBitAtPosition.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\obj\Debug\_12.SetBitAtPosition.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\12. SetBitAtPosition\obj\Debug\_12.SetBitAtPosition.pdb

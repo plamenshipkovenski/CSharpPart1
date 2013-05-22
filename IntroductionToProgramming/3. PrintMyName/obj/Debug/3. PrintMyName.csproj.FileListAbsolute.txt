@@ -1,0 +1,6 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\bin\Debug\_3.PrintMyName.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\bin\Debug\_3.PrintMyName.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\bin\Debug\_3.PrintMyName.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\obj\Debug\3. PrintMyName.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\obj\Debug\_3.PrintMyName.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\3. PrintMyName\obj\Debug\_3.PrintMyName.pdb

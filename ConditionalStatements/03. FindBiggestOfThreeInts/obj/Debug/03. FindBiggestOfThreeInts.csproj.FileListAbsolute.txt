@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\03. FindBiggestOfThreeInts\bin\Debug\_03.FindBiggestOfThreeInts.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\03. FindBiggestOfThreeInts\bin\Debug\_03.FindBiggestOfThreeInts.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\03. FindBiggestOfThreeInts\bin\Debug\_03.FindBiggestOfThreeInts.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\03. FindBiggestOfThreeInts\obj\Debug\_03.FindBiggestOfThreeInts.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\03. FindBiggestOfThreeInts\obj\Debug\_03.FindBiggestOfThreeInts.pdb

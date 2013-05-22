@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\bin\Debug\_11.ExtractBitFromInteger.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\bin\Debug\_11.ExtractBitFromInteger.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\bin\Debug\_11.ExtractBitFromInteger.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\obj\Debug\11. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\obj\Debug\_11.ExtractBitFromInteger.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\11. ExtractBitFromInteger\obj\Debug\_11.ExtractBitFromInteger.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\bin\Debug\_05.PrintBiggerOfTwoNumbers.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\bin\Debug\_05.PrintBiggerOfTwoNumbers.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\bin\Debug\_05.PrintBiggerOfTwoNumbers.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\obj\Debug\05. PrintBiggerOfTwoNumbers.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\obj\Debug\_05.PrintBiggerOfTwoNumbers.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\05. PrintBiggerOfTwoNumbers\obj\Debug\_05.PrintBiggerOfTwoNumbers.pdb

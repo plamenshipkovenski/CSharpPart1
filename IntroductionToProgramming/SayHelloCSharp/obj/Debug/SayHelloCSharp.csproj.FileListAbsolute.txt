@@ -1,0 +1,6 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\bin\Debug\SayHelloCSharp.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\obj\Debug\SayHelloCSharp.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\bin\Debug\SayHelloCSharp.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\bin\Debug\SayHelloCSharp.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\obj\Debug\SayHelloCSharp.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\SayHelloCSharp\obj\Debug\SayHelloCSharp.pdb

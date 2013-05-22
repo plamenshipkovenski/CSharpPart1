@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\bin\Debug\_04.CheckDigitOnSpecificPosition.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\bin\Debug\_04.CheckDigitOnSpecificPosition.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\bin\Debug\_04.CheckDigitOnSpecificPosition.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\obj\Debug\04. CheckDigitOnSpecificPosition.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\obj\Debug\_04.CheckDigitOnSpecificPosition.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\04. CheckDigitOnSpecificPosition\obj\Debug\_04.CheckDigitOnSpecificPosition.pdb

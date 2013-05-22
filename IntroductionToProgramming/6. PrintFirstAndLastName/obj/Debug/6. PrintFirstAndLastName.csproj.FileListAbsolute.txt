@@ -1,0 +1,6 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\obj\Debug\6. PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\bin\Debug\_6.PrintFirstAndLastName.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\6. PrintFirstAndLastName\obj\Debug\_6.PrintFirstAndLastName.pdb

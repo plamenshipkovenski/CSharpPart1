@@ -1,0 +1,6 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\bin\Debug\_8.CalcSquareOfNumber.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\bin\Debug\_8.CalcSquareOfNumber.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\bin\Debug\_8.CalcSquareOfNumber.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\obj\Debug\8. CalcSquareOfNumber.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\obj\Debug\_8.CalcSquareOfNumber.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\8. CalcSquareOfNumber\obj\Debug\_8.CalcSquareOfNumber.pdb

@@ -1,0 +1,6 @@
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\bin\Debug\_9.PrintSequence2.exe.config
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\bin\Debug\_9.PrintSequence2.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\bin\Debug\_9.PrintSequence2.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\obj\Debug\_9.PrintSequence2.exe
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\obj\Debug\_9.PrintSequence2.pdb
+D:\telerikAcademy\c#1\Homeworks\IntroductionToProgramming\9. PrintSequence2\obj\Debug\9. PrintSequence2.csprojResolveAssemblyReference.cache

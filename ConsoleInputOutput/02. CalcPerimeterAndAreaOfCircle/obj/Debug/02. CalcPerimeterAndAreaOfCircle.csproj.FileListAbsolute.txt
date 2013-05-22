@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\bin\Debug\_02.CalcPerimeterAndAreaOfCircle.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\bin\Debug\_02.CalcPerimeterAndAreaOfCircle.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\bin\Debug\_02.CalcPerimeterAndAreaOfCircle.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\obj\Debug\_02.CalcPerimeterAndAreaOfCircle.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\obj\Debug\_02.CalcPerimeterAndAreaOfCircle.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\02. CalcPerimeterAndAreaOfCircle\obj\Debug\02. CalcPerimeterAndAreaOfCircle.csprojResolveAssemblyReference.cache

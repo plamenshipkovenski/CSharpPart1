@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\bin\Debug\_06.FindIfGivenPointIsWithinCircle.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\bin\Debug\_06.FindIfGivenPointIsWithinCircle.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\bin\Debug\_06.FindIfGivenPointIsWithinCircle.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\obj\Debug\06. FindIfGivenPointIsWithinCircle.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\obj\Debug\_06.FindIfGivenPointIsWithinCircle.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\OperatorsExpressionsAndStatements\06. FindIfGivenPointIsWithinCircle\obj\Debug\_06.FindIfGivenPointIsWithinCircle.pdb

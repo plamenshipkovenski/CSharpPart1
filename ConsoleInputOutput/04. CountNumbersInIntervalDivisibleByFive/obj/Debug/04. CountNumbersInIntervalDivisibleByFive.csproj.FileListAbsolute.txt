@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\bin\Debug\_04.CountNumbersInIntervalDivisibleByFive.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\bin\Debug\_04.CountNumbersInIntervalDivisibleByFive.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\bin\Debug\_04.CountNumbersInIntervalDivisibleByFive.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\obj\Debug\04. CountNumbersInIntervalDivisibleByFive.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\obj\Debug\_04.CountNumbersInIntervalDivisibleByFive.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConsoleInputOutput\04. CountNumbersInIntervalDivisibleByFive\obj\Debug\_04.CountNumbersInIntervalDivisibleByFive.pdb
