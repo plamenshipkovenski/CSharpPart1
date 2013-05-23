@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\bin\Debug\_10.ApplyBonusScoresToGivenScores.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\bin\Debug\_10.ApplyBonusScoresToGivenScores.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\bin\Debug\_10.ApplyBonusScoresToGivenScores.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\obj\Debug\10. ApplyBonusScoresToGivenScores.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\obj\Debug\_10.ApplyBonusScoresToGivenScores.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\10. ApplyBonusScoresToGivenScores\obj\Debug\_10.ApplyBonusScoresToGivenScores.pdb

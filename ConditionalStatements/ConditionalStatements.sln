@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SayDigit", "05. SayDigi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. FindGreatestOfFiveVariables", "07. FindGreatestOfFiveVariables\07. FindGreatestOfFiveVariables.csproj", "{78C23B06-CCBB-47F2-B968-B84655AF0753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. ApplyBonusScoresToGivenScores", "10. ApplyBonusScoresToGivenScores\10. ApplyBonusScoresToGivenScores.csproj", "{3236B3B9-250D-4D7D-9B9C-C0BA2C49DB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. ParseUnknownInput", "08. ParseUnknownInput\08. ParseUnknownInput.csproj", "{05755BBC-8BB0-4755-89D4-3DB0E1BAAA95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{78C23B06-CCBB-47F2-B968-B84655AF0753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78C23B06-CCBB-47F2-B968-B84655AF0753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78C23B06-CCBB-47F2-B968-B84655AF0753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3236B3B9-250D-4D7D-9B9C-C0BA2C49DB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3236B3B9-250D-4D7D-9B9C-C0BA2C49DB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3236B3B9-250D-4D7D-9B9C-C0BA2C49DB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3236B3B9-250D-4D7D-9B9C-C0BA2C49DB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05755BBC-8BB0-4755-89D4-3DB0E1BAAA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05755BBC-8BB0-4755-89D4-3DB0E1BAAA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05755BBC-8BB0-4755-89D4-3DB0E1BAAA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05755BBC-8BB0-4755-89D4-3DB0E1BAAA95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

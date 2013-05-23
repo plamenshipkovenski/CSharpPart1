@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. GetNumbersPrintTheirSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. PrintAllPositiveIntegersToN", "08. PrintAllPositiveIntegersToN\08. PrintAllPositiveIntegersToN.csproj", "{CA67C32F-3404-4F6A-B861-2C3D94553ACB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. FallingRocks", "11. FallingRocks\11. FallingRocks.csproj", "{E2EFD8A2-C849-43D3-AF6C-BFC7E26CE7D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{CA67C32F-3404-4F6A-B861-2C3D94553ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA67C32F-3404-4F6A-B861-2C3D94553ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA67C32F-3404-4F6A-B861-2C3D94553ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EFD8A2-C849-43D3-AF6C-BFC7E26CE7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EFD8A2-C849-43D3-AF6C-BFC7E26CE7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EFD8A2-C849-43D3-AF6C-BFC7E26CE7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EFD8A2-C849-43D3-AF6C-BFC7E26CE7D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
