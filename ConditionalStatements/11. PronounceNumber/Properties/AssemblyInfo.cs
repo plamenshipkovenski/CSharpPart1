@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("09. FindIfSumOfNumbersInSubsetIsZero")]
+[assembly: AssemblyTitle("11. PronounceNumber")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("09. FindIfSumOfNumbersInSubsetIsZero")]
+[assembly: AssemblyProduct("11. PronounceNumber")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4c091a08-2c43-481b-97c3-8a18b3fe65ef")]
+[assembly: Guid("b7409c10-c1cf-4536-9e73-03bdf13ee190")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,6 +1,6 @@
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.exe.config
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09.exe
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09.pdb
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.exe
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.pdb
-D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09. FindIfSumOfNumbersInSubsetIsZero.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\bin\Debug\_09.FindIfSumOfNumbersInSubsetIsZero.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\bin\Debug\_09.FindIfSumOfNumbersInSubsetIsZero.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\bin\Debug\_09.FindIfSumOfNumbersInSubsetIsZero.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\obj\Debug\09. FindIfSumOfNumbersInSubsetIsZero.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\obj\Debug\_09.FindIfSumOfNumbersInSubsetIsZero.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09. FindIfSumOfNumbersInSubsetIsZero\obj\Debug\_09.FindIfSumOfNumbersInSubsetIsZero.pdb
