@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\bin\Debug\09.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\ConditionalStatements\09\obj\Debug\09. FindIfSumOfNumbersInSubsetIsZero.csprojResolveAssemblyReference.cache
