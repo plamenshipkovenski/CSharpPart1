@@ -4,9 +4,15 @@ using System.Threading;
 
 class PronounceNumber
 {
-    private static char GetOnes(string input){ return input[input.Length - 1]; }
+    private static char GetOnes(string input)
+    { 
+        return input[input.Length - 1];
+    }
 
-    private static char GetTens(string input){ return input[input.Length - 2]; }
+    private static char GetTens(string input)
+    {
+        return input[input.Length - 2]; 
+    }
 
     private static char GetHundreds(string input){ return input[input.Length - 3]; }
 
