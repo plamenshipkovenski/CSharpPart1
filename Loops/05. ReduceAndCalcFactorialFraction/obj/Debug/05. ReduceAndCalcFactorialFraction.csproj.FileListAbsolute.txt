@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\bin\Debug\_05.ReduceAndCalcFactorialFraction.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\bin\Debug\_05.ReduceAndCalcFactorialFraction.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\bin\Debug\_05.ReduceAndCalcFactorialFraction.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\obj\Debug\05. ReduceAndCalcFactorialFraction.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\obj\Debug\_05.ReduceAndCalcFactorialFraction.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\05. ReduceAndCalcFactorialFraction\obj\Debug\_05.ReduceAndCalcFactorialFraction.pdb

@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\13. CalcTrailingZerosOfFactorial\bin\Debug\_13.CalcTrailingZerosOfFactorial.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\13. CalcTrailingZerosOfFactorial\bin\Debug\_13.CalcTrailingZerosOfFactorial.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\13. CalcTrailingZerosOfFactorial\bin\Debug\_13.CalcTrailingZerosOfFactorial.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\13. CalcTrailingZerosOfFactorial\obj\Debug\_13.CalcTrailingZerosOfFactorial.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\13. CalcTrailingZerosOfFactorial\obj\Debug\_13.CalcTrailingZerosOfFactorial.pdb

@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\08. FindGCDUsingEuclideanAlg\bin\Debug\_08.FindGCDUsingEuclideanAlg.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\08. FindGCDUsingEuclideanAlg\bin\Debug\_08.FindGCDUsingEuclideanAlg.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\08. FindGCDUsingEuclideanAlg\bin\Debug\_08.FindGCDUsingEuclideanAlg.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\08. FindGCDUsingEuclideanAlg\obj\Debug\_08.FindGCDUsingEuclideanAlg.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\08. FindGCDUsingEuclideanAlg\obj\Debug\_08.FindGCDUsingEuclideanAlg.pdb

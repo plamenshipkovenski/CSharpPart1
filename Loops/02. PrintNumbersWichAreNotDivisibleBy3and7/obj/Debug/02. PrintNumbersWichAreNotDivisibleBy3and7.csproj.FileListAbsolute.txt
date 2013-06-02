@@ -1,0 +1,6 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\bin\Debug\_02.PrintNumbersWichAreNotDivisibleBy3and7.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\bin\Debug\_02.PrintNumbersWichAreNotDivisibleBy3and7.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\bin\Debug\_02.PrintNumbersWichAreNotDivisibleBy3and7.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\obj\Debug\02. PrintNumbersWichAreNotDivisibleBy3and7.csprojResolveAssemblyReference.cache
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\obj\Debug\_02.PrintNumbersWichAreNotDivisibleBy3and7.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\02. PrintNumbersWichAreNotDivisibleBy3and7\obj\Debug\_02.PrintNumbersWichAreNotDivisibleBy3and7.pdb

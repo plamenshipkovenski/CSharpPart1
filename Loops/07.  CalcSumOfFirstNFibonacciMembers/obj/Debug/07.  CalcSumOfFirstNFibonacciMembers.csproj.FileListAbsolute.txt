@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\07.  CalcSumOfFirstNFibonacciMembers\bin\Debug\_07.CalcSumOfFirstNFibonacciMembers.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\07.  CalcSumOfFirstNFibonacciMembers\bin\Debug\_07.CalcSumOfFirstNFibonacciMembers.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\07.  CalcSumOfFirstNFibonacciMembers\bin\Debug\_07.CalcSumOfFirstNFibonacciMembers.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\07.  CalcSumOfFirstNFibonacciMembers\obj\Debug\_07.CalcSumOfFirstNFibonacciMembers.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\07.  CalcSumOfFirstNFibonacciMembers\obj\Debug\_07.CalcSumOfFirstNFibonacciMembers.pdb

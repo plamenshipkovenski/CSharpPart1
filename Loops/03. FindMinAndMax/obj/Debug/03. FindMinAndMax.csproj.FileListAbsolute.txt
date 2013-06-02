@@ -1,0 +1,5 @@
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\03. FindMinAndMax\bin\Debug\_03.FindMinAndMax.exe.config
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\03. FindMinAndMax\bin\Debug\_03.FindMinAndMax.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\03. FindMinAndMax\bin\Debug\_03.FindMinAndMax.pdb
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\03. FindMinAndMax\obj\Debug\_03.FindMinAndMax.exe
+D:\telerikAcademy\Programming\c#1\Homeworks\Loops\03. FindMinAndMax\obj\Debug\_03.FindMinAndMax.pdb
