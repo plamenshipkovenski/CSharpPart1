@@ -13,10 +13,18 @@ class checkIfIntegerIsOddOrEven
     }
     static void Main()
     {
-        int num = 0;
-        bool isEven = true && ValidateEvenNum(num);
-        bool isOdd = !isEven;
-        Console.WriteLine(isEven);
-        Console.WriteLine(isOdd);
+        Console.Write("input number: ");
+        int num = int.Parse(Console.ReadLine());
+
+        bool isEven = ValidateEvenNum(num);
+
+        if (isEven)
+        {
+            Console.WriteLine("{0} is even!", num);
+        }
+        else
+        {
+            Console.WriteLine("{0} is odd!", num);
+        }
     }
 }
